@@ -1,6 +1,6 @@
-# Howdy, I'm Tom <img src="https://raw.githubusercontent.com/CubitsDev/CubitsDev/master/wave.gif" width="30px">
+# Howdy, I'm Tom <img src="https://raw.githubusercontent.com/CubitsDev/CubitsDev/master/wave.gif" height="30px">
 
-Apprentice Software Engineer for [Sky UK](https://sky.com)
+Software Engineer for [Sky UK](https://sky.com)
 
 Often found developing Java plugins in my free time.
 
